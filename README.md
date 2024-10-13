@@ -21,9 +21,9 @@ Este projeto é uma aplicação simples em JavaScript que utiliza o objeto <stro
 ## Interação:
 Cada período do dia exibe uma imagem diferente:
 
-<img src="./img/print-manha.png" width="200px">
-<img src="./img/print-tarde.png" width="200px">
-<img src="./img/print-noite.png" width="200px">
+<img src="./img/print-manha.png" width="300px">
+<img src="./img/print-tarde.png" width="300px">
+<img src="./img/print-noite.png" width="300px">
 
 <br>
 
