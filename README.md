@@ -25,8 +25,6 @@ Cada período do dia exibe uma imagem diferente:
 <img src="./img/print-tarde.png" width="300px">
 <img src="./img/print-noite.png" width="300px">
 
-<br>
-
 Ao clicar na imagem correspondente, uma mensagem é exibida:
 
 - <strong>"Bom dia"</strong> para o período da manhã.
@@ -34,3 +32,5 @@ Ao clicar na imagem correspondente, uma mensagem é exibida:
 - <strong>"Boa noite"</strong> para o período da noite.
 
 Sinta-se à vontade para explorar o código e contribuir com melhorias!
+
+<br>
